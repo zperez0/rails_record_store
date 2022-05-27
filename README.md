@@ -3,7 +3,7 @@
 
 WIP:
 
-* testing failing in many-to-many branch
+* test failing in many-to-many branch
 
 * add seeding in both branches
 
