@@ -1,24 +1,10 @@
-# README
+# Rails Record Store
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+WIP:
 
-* Ruby version
+* testing failing in many-to-many branch
 
-* System dependencies
+* add seeding in both branches
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* finish installing bootstrap / sass gems in both branches
